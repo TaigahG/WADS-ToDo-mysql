@@ -8,4 +8,4 @@
 | `/tasks/{task_id}` | PUT    | Update a task's text and completion status | `{ "title": "Updated Task", "completed": true }` | `{ "id": 1, "title": "Updated Task", "completed": true, "user_id": 1 }` |
 | `/tasks/{task_id}` | DELETE | Delete a task                         | None                                                | `204 No Content`                                |
 
-![Alt text]('fastAPI.png')
+![Alt text]('src/fastAPI.png')
