@@ -9,3 +9,5 @@
 | `/tasks/{task_id}` | DELETE | Delete a task                         | None                                                | `204 No Content`                                |
 
 ![fastapi-docs](./img/fastAPI.png)
+![Func](./img/fastAPI2.png)
+![mysql](./img/mysqlTable.png)
