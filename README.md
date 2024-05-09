@@ -7,3 +7,5 @@
 | `/tasks/{task_id}` | GET    | Retrieve a single task by its ID      | None                                                | `{ "id": 1, "title": "Task One", "completed": false, "user_id": 1 }` |
 | `/tasks/{task_id}` | PUT    | Update a task's text and completion status | `{ "title": "Updated Task", "completed": true }` | `{ "id": 1, "title": "Updated Task", "completed": true, "user_id": 1 }` |
 | `/tasks/{task_id}` | DELETE | Delete a task                         | None                                                | `204 No Content`                                |
+
+![Alt text]('fastAPI.png')
